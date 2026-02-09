@@ -32,7 +32,6 @@ Git | GitHub
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleitonRB&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonRB&layout=compact&theme=dark) 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?cleitonrb=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 **CleitonRB/Cleitonrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
