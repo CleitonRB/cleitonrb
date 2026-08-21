@@ -7,13 +7,15 @@ Apaixonado por tecnologia, games, lógica e resolução de problemas, sempre em 
 ## 🧠 Conhecimentos
 
 ### Front-end: 
-HTML | CSS | JavaScript | Python | C#
+HTML5 | CSS3 | JavaScript
+
+### Back-end
+Python | C#
 
 ### Banco de dados: 
 SQL (MySQL, PostgreSQL) | NoSQL (MongoDB)
 
 ### Versionamento:
-
 Git | GitHub
 
 ## ⚙ Tecnologias
