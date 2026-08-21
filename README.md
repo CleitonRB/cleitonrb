@@ -9,7 +9,7 @@ Apaixonado por tecnologia, games, lógica e resolução de problemas, sempre em 
 ### Front-end: 
 HTML5 | CSS3 | JavaScript
 
-### Back-end
+### Back-end:
 Python | C#
 
 ### Banco de dados: 
